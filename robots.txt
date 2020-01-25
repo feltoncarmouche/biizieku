@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiquesipoh.gonzalobulnes.com/sitemap.xml
